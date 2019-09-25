@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestDdApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TestDdApplication.class, args);
+        System.out.println("第一次修改");
     }
-
 }
